@@ -9,7 +9,7 @@
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/github.com/kashir-bots/streamextractorbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Raj933955/streamextractorbotkashir/tree/main)
 
 ### Deploy in your vps
 ```sh
